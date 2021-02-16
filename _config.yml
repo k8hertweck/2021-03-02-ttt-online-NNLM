@@ -10,7 +10,7 @@
 carpentry: "cp"
 
 # Overall title for pages.
-title: "Instructor Training for the Network of National Library of Medicine"
+title: "Carpentries Instructor Training for the Network of National Library of Medicine"
 
 
 #------------------------------------------------------------
@@ -23,7 +23,7 @@ kind: "workshop"
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
 # Please don't change it: <USERNAME>/<PROJECT> is correct.
-repository: k8hertweck/2021-03-02-ttt-online-NNLM
+repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
 email: "team@carpentries.org"
