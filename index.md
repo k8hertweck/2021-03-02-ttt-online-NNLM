@@ -14,7 +14,7 @@ etherpad: https://pad.carpentries.org/2021-03-02-ttt-online-NNLM            # op
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "https://carpentries.zoom.us/my/carpentriesroom3?pwd=ZGY2VVRIRDhGSU84Uys1dEx1YXphZz09"
 
   - venue: "Network of National Library of Medicine"
     address: ""
@@ -220,7 +220,7 @@ for more information.
 <p>
   Please see <a href="{{ site.training_site }}">this site</a> for course materials.
   Note the example schedule shown there represents a workshop spread across two full days;
-  our modified schedule for four half days is tentatively set as follows:
+  our modified schedule for four half days is tentatively set as follows (times in PST):
 </p>
 
 
